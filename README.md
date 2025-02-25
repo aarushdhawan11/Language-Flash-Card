@@ -42,7 +42,7 @@ With an intuitive UI and real-time translation capabilities, this project makes 
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/aarushdhawan1511/language-flashcards.git
+git clone https://github.com/aarushdhawan11/language-flashcards.git
 cd language-flashcards
 ```
 
